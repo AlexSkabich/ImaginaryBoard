@@ -1,0 +1,8 @@
+﻿Year,Total_Bot_Traffic_Pct,Bad_Bots_Pct,Key_Drivers
+2014,35%,18%,"Spam bots (ads, crypto) and early commercial scrapers."
+2017,42%,24%,Smart parsers bypassing reCAPTCHA v2. Political astroturfing.
+2020,47%,30%,Surge in text scraping for Sentiment Analysis.
+2023,51%,37%,LLM era. Systemic data harvesting by AI research labs.
+2024,54%,40%,"Massive AI scraping of media files (WebM, images) for generative models."
+2025,57%,43%,Boom of commercial AI agents. Mass adoption of Cloudflare AIndependence.
+2026,62%,48%,Agentic AI fills threads. Autonomous bots simulating real user interaction.
